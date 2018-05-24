@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <c:catalog xmlns:c="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/3/3-6"
-          uri="genc_geo-political_3-6_char3.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:3:3-6"
-          uri="genc_geo-political_3-6_char3.csv"/>
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/2/3-6"
-          uri="genc_geo-political_3-6_char2.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:2:3-6"
-          uri="genc_geo-political_3-6_char2.csv"/>
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/n/3-6"
-          uri="genc_geo-political_3-6_numeric.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:n:3-6"
-          uri="genc_geo-political_3-6_numeric.csv"/>
-   <c:uri name="http://api.nsgreg.nga.mil/geo-division/GENC/6/3-6"
-          uri="genc_geo-division_3-6_char6.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-division:GENC:6:3-6"
-          uri="genc_geo-division_3-6_char6.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/3/3-7"
+          uri="genc_geo-political_3-7_char3.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:3:3-7"
+          uri="genc_geo-political_3-7_char3.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/2/3-7"
+          uri="genc_geo-political_3-7_char2.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:2:3-7"
+          uri="genc_geo-political_3-7_char2.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/n/3-7"
+          uri="genc_geo-political_3-7_numeric.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:n:3-7"
+          uri="genc_geo-political_3-7_numeric.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-division/GENC/6/3-7"
+          uri="genc_geo-division_3-7_char6.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-division:GENC:6:3-7"
+          uri="genc_geo-division_3-7_char6.csv"/>
 </c:catalog>
