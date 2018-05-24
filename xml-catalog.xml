@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <c:catalog xmlns:c="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/3/2-1"
-          uri="genc_geo-political_2-1_char3.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:3:2-1"
-          uri="genc_geo-political_2-1_char3.csv"/>
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/2/2-1"
-          uri="genc_geo-political_2-1_char2.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:2:2-1"
-          uri="genc_geo-political_2-1_char2.csv"/>
-   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/n/2-1"
-          uri="genc_geo-political_2-1_numeric.csv"/>
-   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:n:2-1"
-          uri="genc_geo-political_2-1_numeric.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/3/2-2"
+          uri="genc_geo-political_2-2_char3.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:3:2-2"
+          uri="genc_geo-political_2-2_char3.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/2/2-2"
+          uri="genc_geo-political_2-2_char2.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:2:2-2"
+          uri="genc_geo-political_2-2_char2.csv"/>
+   <c:uri name="http://api.nsgreg.nga.mil/geo-political/GENC/n/2-2"
+          uri="genc_geo-political_2-2_numeric.csv"/>
+   <c:uri name="urn:us:gov:dod:nga:def:geo-political:GENC:n:2-2"
+          uri="genc_geo-political_2-2_numeric.csv"/>
    <c:uri name="http://api.nsgreg.nga.mil/geo-division/ISO3166-2/6/ed3"
-          uri="genc_geo-division_2-1_char6.csv"/>
+          uri="genc_geo-division_2-2_char6.csv"/>
    <c:uri name="urn:us:gov:dod:nga:def:geo-division:ISO3166-2:6:ed3"
-          uri="genc_geo-division_2-1_char6.csv"/>
+          uri="genc_geo-division_2-2_char6.csv"/>
 </c:catalog>
